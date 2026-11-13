@@ -1,0 +1,17 @@
+# Repository settings, applied by the Probot "Settings" app.
+# https://github.com/repository-settings/app
+
+repository:
+  name: news_mail
+  description: "Nextcloud app that mails each News user their unread feed entries, one mail per feed, and marks them read"
+  topics: nextcloud, nextcloud-app, nextcloud-news, rss, atom, feed-reader, email, email-notifications, php, self-hosted
+
+  private: false
+
+  has_issues: true
+  has_projects: false
+  has_wiki: false
+  has_downloads: false
+  has_discussions: false
+
+  default_branch: master
